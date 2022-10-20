@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69b5f6fb-615c-49f2-b3cf-40b89317074c" name="Changes" comment="" />
+    <list default="true" id="69b5f6fb-615c-49f2-b3cf-40b89317074c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitignore" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GPK9AVNb9Dt9Gf25pnz7DfwrRm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,9 +31,16 @@
     "last_opened_file_path": "C:/Users/maria/OneDrive/Documentos/Coding Tank Santander/coding-tank-entregas"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Questao1">
     <configuration name="Questao1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Questao1" />
+      <module name="coding-tank-entregas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Questao2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questao2" />
       <module name="coding-tank-entregas" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -36,6 +49,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Questao1" />
+        <item itemvalue="Application.Questao2" />
       </list>
     </recent_temporary>
   </component>
@@ -49,5 +63,16 @@
       <updated>1666284624735</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
